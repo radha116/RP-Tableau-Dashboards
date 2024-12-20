@@ -1,2 +1,2 @@
 # ComplianceGuageDashboard
-A Tableau dashboard showcasing compliance metrics using gauge visuals for clear and intuitive performance tracking.
+This repository showcases my Tableau dashboards, demonstrating expertise in data visualization, analysis, and storytelling. Each dashboard transforms raw data into actionable insights with interactive and visually engaging designs.
